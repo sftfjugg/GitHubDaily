@@ -1,3 +1,5 @@
+https://mp.weixin.qq.com/s/5tJ9CPANWoTUeyVrmaanYQ
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/githubdaily_brand.png">
 </p>
